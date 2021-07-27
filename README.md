@@ -33,7 +33,7 @@
 -----------
 
 <a>
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=kazuumaVII&theme=nord&margin-w=20&no-bg=true&no-frame=true" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=kazuumaVII&theme=nord&margin-w=20&no-bg=true&no-frame=true" />
 </a>  
  
 ![trophy](https://github-profile-trophy.vercel.app/?username=kazuumaVII&theme=nord&margin-w=20&no-bg=true&no-frame=true)
