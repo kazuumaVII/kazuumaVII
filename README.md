@@ -19,6 +19,9 @@
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=frfrance&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
 ![GitHub followers](https://img.shields.io/github/followers/kazuumaVII?style=social)
+[![GitHub watchers](https://img.shields.io/github/watchers/kazuumaVII/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
+
+
 ![GitHub language count](https://img.shields.io/github/languages/count/kazuumaVII/?style=plastic)
 ![GitHub language count](https://img.shields.io/github/languages/count/kazuumaVII/REPOSITORY?style=plastic)
 
