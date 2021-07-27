@@ -16,7 +16,7 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=kazuumaVII)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=minishell&theme=material-palenight) &emsp;&emsp; &ensp; 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=minishell&theme=dracula) &emsp;&emsp; &ensp; 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=cub_3d)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=ft_printf) &emsp;&emsp; &ensp; 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=ft_service)
