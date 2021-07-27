@@ -12,10 +12,12 @@
  <img align="right" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
  <img align="right" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
  <img align="right" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
- <img align="right" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 </a>  
 
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=frfrance&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+![Visitor](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=frfrance&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+
+<a href="franceschi.ky@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 &emsp;&emsp;&emsp;&emsp;&emsp; ![GitHub followers](https://img.shields.io/github/followers/kazuumaVII?style=social) &emsp;&emsp;&emsp;
 ![GitHub watchers](https://img.shields.io/github/watchers/kazuumaVII/kazuumaVII?style=social) &emsp;&emsp;&emsp;
