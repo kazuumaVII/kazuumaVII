@@ -13,6 +13,12 @@
  <img align="right" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </a>  
 
+</a>
+  <a href="https://github.com/Terabyte17?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/kazuumaVII?style=flat-square&color=black&logo=github">
+  </a>
+
+
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=frfrance&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
 &emsp;&emsp;&emsp;&emsp;&emsp; ![GitHub followers](https://img.shields.io/github/followers/kazuumaVII?style=social) &emsp;&emsp;&emsp;
