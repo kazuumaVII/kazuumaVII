@@ -7,7 +7,7 @@
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/frfrance)](https://github.com/JaeSeoKim/badge42)&ensp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuumaVII&layout=compact&langs_count=8&hide=javascript,html,css,scss,php,twig,&theme=material-palenight)
 
-
+https://github-readme-stats.vercel.app/api/top-langs/?username=thisispratt&hide=c%2B%2B,php
 
 <a>
   <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=kazuumaVII.kazuumaVII" />
