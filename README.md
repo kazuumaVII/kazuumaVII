@@ -24,8 +24,6 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/kazuumaVII/kazuumaVII?style=plastic) &emsp;&emsp;&emsp;
 ![GitHub last commit](https://img.shields.io/github/last-commit/kazuumaVII/kazuumaVII?color=red&style=plastic)
 
-
-
 -----------
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=minishell&theme=dracula&border_radius=30)](https://github.com/kazuumaVII/minishell)&emsp;&emsp; &ensp; 
