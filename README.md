@@ -21,8 +21,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/kazuumaVII?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kazuumaVII/kazuumaVII?color=red&style=plastic)
 
-![GitHub language count](https://img.shields.io/github/languages/count/kazuumaVII/?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/kazuumaVII/REPOSITORY?style=plastic)
+![GitHub watchers](https://img.shields.io/github/watchers/kazuumaVII/kazuumaVII?style=social)
+
 
 
 
