@@ -5,7 +5,6 @@
 -----------
 
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/frfrance)](https://github.com/JaeSeoKim/badge42)&ensp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuumaVII&layout=compact&langs_count=8&hide=javascript,html,scss,php,twig,&theme=material-palenight)
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=thisispratt&hide=c%2B%2B,php
 
