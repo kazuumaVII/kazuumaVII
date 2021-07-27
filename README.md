@@ -24,7 +24,7 @@
 
 -----------
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=minishell&theme=dracula&border_radius=30 (https://github.com/kazuumaVII/minishell)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=minishell&theme=dracula&border_radius=30](https://github.com/kazuumaVII/minishell)
 
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=cub_3d&theme=dracula&border_radius=30)
