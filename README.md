@@ -1,6 +1,11 @@
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?size=30&height=40&lines=Hello+I'm+Fran%C3%A7ois...;Nice+to+meet+you+!!!(https://git.io/typing-svg)">
+ <img src="https://readme-typing-svg.herokuapp.com?size=30&width=650&lines=Hello+I'm+Francois...;+I+am+a+student+at+school+42+Paris...;Nice+to+meet+you+!)](https://git.io/typing-svg">
 </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&width=650&lines=Hello+I'm+Francois...;+I+am+a+student+at+school+42+Paris...;Nice+to+meet+you+!)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 -----------
 
