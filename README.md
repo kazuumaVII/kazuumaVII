@@ -4,7 +4,7 @@
 
 -----------
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?kazuumaVII" frameborder="0"></iframe>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?kazuumaVII=jasongaylord&langs_count=5&theme=tokyonight)]()
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/frfrance)](https://github.com/JaeSeoKim/badge42)     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazuumaVII&layout=compact&count_private=true&theme=gruvbox"/>
 
