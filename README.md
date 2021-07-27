@@ -5,7 +5,7 @@
 -----------
 
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/frfrance)](https://github.com/JaeSeoKim/badge42)&ensp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuumaVII&layout=compact&hide_title=False&hide=javascript,css,scss,php,twig,html&theme=material-palenight)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/frfrance)](https://github.com/JaeSeoKim/badge42)&ensp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuumaVII&layout=compact&hide=javascript,css,scss,php,twig,html&theme=material-palenight)
 
 <a>
   <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=kazuumaVII.kazuumaVII" />
