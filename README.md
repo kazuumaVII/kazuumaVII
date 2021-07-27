@@ -7,8 +7,6 @@
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/frfrance)](https://github.com/JaeSeoKim/badge42)&ensp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuumaVII&layout=compact&langs_count=8&count-private=true&hide=javascript,html,CSS,scss,php,twig,&theme=material-palenight)
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=kazuumaVII)
-
 <a>
   <img align="right" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
  <img align="right" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -16,6 +14,7 @@
  <img align="right" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </a>  
 
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=kazuumaVII)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
