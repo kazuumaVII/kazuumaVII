@@ -18,7 +18,7 @@
 
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=frfrance&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![GitHub followers](https://img.shields.io/github/followers/kazuumaVII?style=social) &emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp; ![GitHub followers](https://img.shields.io/github/followers/kazuumaVII?style=social) &emsp;&emsp;&emsp;
 ![GitHub watchers](https://img.shields.io/github/watchers/kazuumaVII/kazuumaVII?style=social) &emsp;&emsp;&emsp;
 ![GitHub repo size](https://img.shields.io/github/repo-size/kazuumaVII/kazuumaVII?style=plastic) &emsp;&emsp;&emsp;
 ![GitHub language count](https://img.shields.io/github/languages/count/kazuumaVII/kazuumaVII?style=plastic) &emsp;&emsp;&emsp;
