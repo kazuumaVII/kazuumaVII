@@ -1,12 +1,8 @@
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?color=f66e96?size=30&width=650&lines=Hello+I'm+Francois...;+I+am+a+student+at+school+42+Paris...;Nice+to+meet+you+!">
+ <img src="https://readme-typing-svg.herokuapp.com?color=F66E96?size=30&width=650&lines=Hello+I'm+Francois...;+I+am+a+student+at+school+42+Paris...;Nice+to+meet+you+!">
 </p>
 
 -----------
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=#f66e96&size=31&width=402&lines=hello+salooe+;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
-
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/frfrance)](https://github.com/JaeSeoKim/badge42)&ensp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuumaVII&layout=compact&langs_count=8&count-private=true&hide=javascript,html,CSS,scss,php,twig,&theme=material-palenight&hide_border=true)
 
 <a>
   <img align="right" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
