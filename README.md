@@ -28,5 +28,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=ft_printf&theme=dracula&border_radius=30)](https://github.com/kazuumaVII/ft_printf)&emsp;&emsp; &ensp; 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=ft_service&theme=dracula&border_radius=30)](https://github.com/kazuumaVII/ft_service)
 
+-----------
 
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
