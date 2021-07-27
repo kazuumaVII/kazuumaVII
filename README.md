@@ -1,4 +1,4 @@
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuumaVII&hide=TeX&layout=compact)
 
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/frfrance)](https://github.com/JaeSeoKim/badge42)![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=kazuumaVII&show_icons=true&theme=dracula)
