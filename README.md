@@ -19,9 +19,6 @@
 
 <a>
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=minishell&theme=material-palenight" />
-
 </a>  
 
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=minishell&theme=material-palenight)
 
