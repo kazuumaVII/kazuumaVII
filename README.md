@@ -32,6 +32,6 @@
 
 -----------
 
-![trophy](https://github-profile-trophy.vercel.app/?username=kazuumaVII&theme=nord&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=kazuumaVII&theme=nord&margin-w=20)
 
 
