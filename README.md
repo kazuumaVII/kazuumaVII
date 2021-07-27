@@ -2,8 +2,6 @@
  <img src="https://readme-typing-svg.herokuapp.com?color=F66E96&size=31&width=660&lines=Hello+I'm+Francois...;I'm+a+student+at+school+42+Paris...;Nice+to+meet+you+!">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F66E96&size=31&width=660&lines=Hello+I'm+Francois...;I'm+a+student+at+school+42+Paris...;Nice+to+meet+you+!)](https://git.io/typing-svg)
-
 -----------
 
 <a>
