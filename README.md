@@ -6,7 +6,9 @@
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/frfrance)](https://github.com/JaeSeoKim/badge42)    
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazuumaVII&layout=compact=javascript,css,scss,php,twig,html&theme=gruvbox"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazuumaVII&layout=compact&hide=javascript,css,scss,php,twig,html&theme=gruvbox"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
