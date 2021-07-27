@@ -18,7 +18,7 @@
 </a>  
 
 <a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=minishell&theme=material-palenight" />
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=minishell&theme=material-palenight" />
 </a>  
 
 
