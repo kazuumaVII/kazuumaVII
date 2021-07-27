@@ -20,7 +20,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp; ![GitHub followers](https://img.shields.io/github/followers/kazuumaVII?style=social) &emsp;&emsp;&emsp;
 ![GitHub watchers](https://img.shields.io/github/watchers/kazuumaVII/kazuumaVII?style=social) &emsp;&emsp;&emsp;
 ![GitHub repo size](https://badges.pufler.dev/repos/kazuumaVII?style=flat-square&color=black&logo=github) &emsp;&emsp;&emsp;
-![GitHub language count](https://img.shields.io/github/languages/count/kazuumaVII/kazuumaVII?style=plastic) &emsp;&emsp;&emsp;
+![GitHub language count](https://img.shields.io/github/languages/count/kazuumaVII/cub_3d?style=plastic) &emsp;&emsp;&emsp;
 ![GitHub last commit](https://img.shields.io/github/last-commit/kazuumaVII/kazuumaVII?color=red&style=plastic)
 
 -----------
