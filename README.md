@@ -7,7 +7,7 @@
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/frfrance)](https://github.com/JaeSeoKim/badge42)
 
 <a>
-  <img align="left" src="https://badge42.herokuapp.com/api/stats/frfrance)](https://github.com/JaeSeoKim/badge42)
+  <img align="left" src="[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/frfrance)](https://github.com/JaeSeoKim/badge42)
 " />
 </a>
 
