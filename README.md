@@ -25,11 +25,13 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/kazuumaVII/kazuumaVII?color=red&style=plastic)
 
 -----------
+&emsp;&emsp; &ensp; 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=minishell&theme=dracula&border_radius=30px) &emsp;&emsp; &ensp; 
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=minishell&theme=dracula&border_radius=30px)  
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=cub_3d&theme=dracula&border_radius=30px)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=ft_printf&theme=dracula&border_radius=30px) &emsp;&emsp; &ensp; 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=ft_printf&theme=dracula&border_radius=30px) 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=ft_service&theme=dracula&border_radius=30px)
 
 
