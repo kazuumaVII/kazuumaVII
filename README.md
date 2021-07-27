@@ -1,5 +1,5 @@
 
-![](https://raw.githubusercontent.com/kazuumaVII/github-stats-transparent/output/generated/languages.svg)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazuumaVII&layout=compact&count_private=true&theme=gruvbox" />
 
 -----------
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/frfrance)](https://github.com/JaeSeoKim/badge42)![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=kazuumaVII&show_icons=true&theme=dracula)
