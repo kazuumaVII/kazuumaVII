@@ -2,11 +2,6 @@
  <img src="https://readme-typing-svg.herokuapp.com?size=30&width=650&lines=Hello+I'm+Francois...;+I+am+a+student+at+school+42+Paris...;Nice+to+meet+you+!)](https://git.io/typing-svg">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&width=650&lines=Hello+I'm+Francois...;+I+am+a+student+at+school+42+Paris...;Nice+to+meet+you+!)](https://git.io/typing-svg)
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
-
 -----------
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/frfrance)](https://github.com/JaeSeoKim/badge42)
