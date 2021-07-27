@@ -26,10 +26,6 @@
 
 -----------
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=minishell&theme=dracula) &emsp;&emsp; &ensp; 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=cub_3d&theme=dracula)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=ft_printf&theme=dracula) &emsp;&emsp; &ensp; 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=ft_service&theme=dracula)
 
 
