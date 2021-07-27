@@ -17,7 +17,7 @@
 </a>  
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=frfrance.visitor-badge)
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=frfrance&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
 ![GitHub stars](https://img.shields.io/github/stars/USER/REPOSITORY?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/USER/REPOSITORY?style=social)
