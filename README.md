@@ -26,9 +26,9 @@
 -----------
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=minishell&theme=dracula&border_radius=30&hide_border=true)](https://github.com/kazuumaVII/minishell)&emsp;&emsp; &ensp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=ft_service&theme=dracula&border_radius=30)](https://github.com/kazuumaVII/ft_service)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=ft_printf&theme=dracula&border_radius=30)](https://github.com/kazuumaVII/ft_printf)&emsp;&emsp; &ensp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=cub_3d&theme=dracula&border_radius=30)](https://github.com/kazuumaVII/cub_3d) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=ft_service&theme=dracula&border_radius=30&hide_border=true)](https://github.com/kazuumaVII/ft_service)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=ft_printf&theme=dracula&border_radius=30&hide_border=true)](https://github.com/kazuumaVII/ft_printf)&emsp;&emsp; &ensp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=cub_3d&theme=dracula&border_radius=30&hide_border=true)](https://github.com/kazuumaVII/cub_3d) 
 
 -----------
  
