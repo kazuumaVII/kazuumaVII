@@ -34,12 +34,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=kazuumaVII&margin-h=15&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord)
+![trophy](https://github-profile-trophy.vercel.app/?username=kazuumaVII&theme=nord)
 
 
