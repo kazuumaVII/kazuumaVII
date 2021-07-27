@@ -32,12 +32,9 @@
 
 -----------
 
-![trophy](https://github-profile-trophy.vercel.app/?username=kazuumaVII&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
+![trophy](https://github-profile-trophy.vercel.app/?username=kazuumaVII&margin-h=15&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15")
-
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-h=15")
 
 
 
