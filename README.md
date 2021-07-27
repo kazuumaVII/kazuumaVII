@@ -32,4 +32,4 @@
 
 -----------
 
-
+![trophy](https://github-profile-trophy.vercel.app/?username=char-Al&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
