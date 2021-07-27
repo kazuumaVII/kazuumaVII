@@ -16,7 +16,6 @@
  <img align="right" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </a>  
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=frfrance.visitor-badge)
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=frfrance&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
 ![GitHub stars](https://img.shields.io/github/stars/USER/REPOSITORY?style=social)
