@@ -4,7 +4,7 @@
 
 -----------
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F378&lines=hello+salooe+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F378&size=31&width=402&lines=hello+salooe+;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/frfrance)](https://github.com/JaeSeoKim/badge42)&ensp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuumaVII&layout=compact&langs_count=8&count-private=true&hide=javascript,html,CSS,scss,php,twig,&theme=material-palenight&hide_border=true)
 
