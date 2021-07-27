@@ -31,7 +31,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=cub_3d&theme=dracula&border_radius=30)](https://github.com/kazuumaVII/cub_3d) 
 
 -----------
-
+![trophy]
+<a>
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=kazuumaVII&theme=nord&margin-w=20&no-bg=true&no-frame=true"
+</a>  
+ 
 ![trophy](https://github-profile-trophy.vercel.app/?username=kazuumaVII&theme=nord&margin-w=20&no-bg=true&no-frame=true)
-
-
