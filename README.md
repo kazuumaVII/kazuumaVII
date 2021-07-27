@@ -21,11 +21,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/kazuumaVII?style=social) &emsp;&emsp;&emsp;
 ![GitHub watchers](https://img.shields.io/github/watchers/kazuumaVII/kazuumaVII?style=social) &emsp;&emsp;&emsp;
 ![GitHub repo size](https://img.shields.io/github/repo-size/kazuumaVII/kazuumaVII?style=plastic) &emsp;&emsp;&emsp;
-![GitHub language count](https://img.shields.io/github/languages/count/kazuumaVII/kazuumaVII?style=plastic) &emsp;&emsp;&emsp;
+![GitHub language count](https://img.shields.io/github/languages/count/kazuumaVII/REPOSITORY?style=plastic) &emsp;&emsp;&emsp;
 ![GitHub last commit](https://img.shields.io/github/last-commit/kazuumaVII/kazuumaVII?color=red&style=plastic)
 
 
-
+![GitHub language count](https://img.shields.io/github/languages/count/USER/REPOSITORY?style=plastic)
 -----------
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=minishell&theme=dracula) &emsp;&emsp; &ensp; 
