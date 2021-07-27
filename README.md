@@ -18,10 +18,11 @@
 
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=frfrance&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
-![GitHub stars](https://img.shields.io/github/stars/USER/REPOSITORY?style=social)
-![GitHub forks](https://img.shields.io/github/forks/USER/REPOSITORY?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/USER/REPOSITORY?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/kazuumaVII?style=social)
+![GitHub stars](https://img.shields.io/github/stars/kazuumaVII/REPOSITORY?style=social)
+![GitHub forks](https://img.shields.io/github/forks/kazuumaVII/REPOSITORY?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/kazuumaVII/REPOSITORY?style=social)
+
 
 
 -----------
