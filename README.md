@@ -16,8 +16,8 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=kazuumaVII)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=minishell)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=cub_3d)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
