@@ -25,4 +25,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=keyword)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=kazuumaVII.kazuumaVII)
+
