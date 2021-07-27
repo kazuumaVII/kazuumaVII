@@ -4,8 +4,6 @@
 
 -----------
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazuumaVII&hide=javascript,php,twig,html&theme=tokyonight)   
-
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/frfrance)](https://github.com/JaeSeoKim/badge42)   
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazuumaVII&&hide=javascript,php,twig,html&theme=gruvbox"/>
