@@ -20,9 +20,11 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/kazuumaVII?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kazuumaVII/kazuumaVII?color=red&style=plastic)
-
 ![GitHub watchers](https://img.shields.io/github/watchers/kazuumaVII/kazuumaVII?style=social)
-
+![GitHub repo size](https://img.shields.io/github/repo-size/kazuumaVII/kazuumaVII?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/kazuumaVII/kazuumaVII?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/kazuumaVII/kazuumaVII?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/kazuumaVII/kazuumaVII?color=red&style=plastic)
 
 
 
