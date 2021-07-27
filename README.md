@@ -1,5 +1,5 @@
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&height=40&lines=Hello+I'm+Fran%C3%A7ois...;Nice+to+meet+you+!)](https://git.io/typing-svg)
+ <img src="https://readme-typing-svg.herokuapp.com?size=30&height=40&lines=Hello+I'm+Fran%C3%A7ois...;Nice+to+meet+you+!)](https://git.io/typing-svg)">
 </p>
 -----------
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/frfrance)](https://github.com/JaeSeoKim/badge42)     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazuumaVII&layout=compact&count_private=true&theme=gruvbox"/>
