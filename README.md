@@ -14,7 +14,7 @@
  <img align="right" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </a>  
 
-![](https://gitwar.herokuapp.com/badge?username=your-github-kazuumaVII&color=green)
+![](https://gitwar.herokuapp.com/badge?username=kazuumaVII&color=green)
 
 -----------
 
