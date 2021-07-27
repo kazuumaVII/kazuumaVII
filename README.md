@@ -17,10 +17,6 @@
  <img align="right" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </a>  
 
-<a>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=minishell&theme=material-palenight" />
-</a>  
-
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=minishell&theme=material-palenight)
 
 
