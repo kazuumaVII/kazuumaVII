@@ -5,10 +5,8 @@
 -----------
 
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/frfrance)](https://github.com/JaeSeoKim/badge42)&ensp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuumaVII&layout=compact&langs_count=8&hide=javascript,css,scss,php,twig,html&theme=material-palenight)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/frfrance)](https://github.com/JaeSeoKim/badge42)&ensp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuumaVII&layout=compact&langs_count=9&hide=javascript,css,scss,php,twig,html&theme=material-palenight)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a>
