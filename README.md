@@ -16,6 +16,7 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=kazuumaVII)
 
+-----------
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=minishell&theme=dracula) &emsp;&emsp; &ensp; 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=cub_3d&theme=dracula)
