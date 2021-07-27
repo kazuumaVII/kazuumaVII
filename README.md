@@ -9,10 +9,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazuumaVII&layout=compact&hide=javascript,css,scss,php,twig,html&theme=gruvbox"/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://badge42.herokuapp.com/api/stats/frfrance)](https://github.com/JaeSeoKim/badge42" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazuumaVII&layout=compact&hide=javascript,css,scss,php,twig,html&theme=gruvbox" />
 </a>
 
 
