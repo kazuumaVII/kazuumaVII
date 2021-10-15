@@ -12,6 +12,7 @@
  <img align="right" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
  <img align="right" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
  <img align="right" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+ <img align="right" src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&amp;style=for-the-badge&amp;logo=react&amp;logoColor=white" </
 </a>  
 
 ![Visitor](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=frfrance&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)&emsp;
