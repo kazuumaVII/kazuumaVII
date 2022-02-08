@@ -59,11 +59,6 @@
 
 [comment]:(https://github-readme-stats.vercel.app/api/top-langs/?username=kazuumaVII&langs_count=8&hide_border=true&layout=compact&hide=javascript,php,css,html,twig,scss&theme=shades-of-purple)
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![GitHub followers](https://img.shields.io/github/followers/kazuumaVII?style=social) &emsp;&emsp;&emsp;&emsp;&emsp;
-![GitHub watchers](https://img.shields.io/github/watchers/kazuumaVII/kazuumaVII?style=social) &emsp;&emsp;&emsp;&emsp;&emsp;
-![GitHub repo size](https://badges.pufler.dev/repos/kazuumaVII?style=flat-square&color=black&logo=github) &emsp;&emsp;&emsp;&emsp;&emsp;
-![GitHub last commit](https://img.shields.io/github/last-commit/kazuumaVII/kazuumaVII?color=red&style=plastic)
-
 
 
 
