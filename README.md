@@ -35,8 +35,6 @@
 </div>
 <br/>
 
-⭐️ Top project
------------
 </div>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![GitHub followers](https://img.shields.io/github/followers/kazuumaVII?style=social) &emsp;&emsp;&emsp;&emsp;&emsp;
 ![GitHub watchers](https://img.shields.io/github/watchers/kazuumaVII/kazuumaVII?style=social) &emsp;&emsp;&emsp;&emsp;&emsp;
@@ -44,8 +42,9 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/kazuumaVII/kazuumaVII?color=red&style=plastic)
 
  
-
+⭐️ Top project
 -----------
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=minishell&theme=calm&border_radius=30&hide_border=true)](https://github.com/kazuumaVII/minishell)&emsp;&emsp; &ensp; 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=ft_service&theme=calm&border_radius=30&hide_border=true)](https://github.com/kazuumaVII/ft_service)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=ft_printf&theme=calm&border_radius=30&hide_border=true)](https://github.com/kazuumaVII/ft_printf)&emsp;&emsp; &ensp; 
