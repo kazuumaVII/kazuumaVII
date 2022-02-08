@@ -34,6 +34,18 @@
 </div>
 <br/>
 
+
+<div align="center">
+ <img src='https://img.shields.io/github/followers/kazuumaVII?style=social' /> 
+ <img src='https://img.shields.io/github/watchers/kazuumaVII/kazuumaVII?style=social' /> 
+ <img src='https://badges.pufler.dev/repos/kazuumaVII?style=flat-square&color=black&logo=github' /> 
+ <img src='https://img.shields.io/github/last-commit/kazuumaVII/kazuumaVII?color=red&style=plastic' /> 
+ 
+ 
+</div>
+
+
+
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![GitHub followers](https://img.shields.io/github/followers/kazuumaVII?style=social) &emsp;&emsp;&emsp;&emsp;&emsp;
 ![GitHub watchers](https://img.shields.io/github/watchers/kazuumaVII/kazuumaVII?style=social) &emsp;&emsp;&emsp;&emsp;&emsp;
 ![GitHub repo size](https://badges.pufler.dev/repos/kazuumaVII?style=flat-square&color=black&logo=github) &emsp;&emsp;&emsp;&emsp;&emsp;
