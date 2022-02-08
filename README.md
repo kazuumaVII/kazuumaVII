@@ -24,9 +24,7 @@
 </a>  
 
 
-[comment]:![Visitor](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=frfrance&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)&emsp;
-[comment]:<a href="mailto:franceschi.ky@gmail.com?subject=%20From%20Github">
-[comment]: <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![GitHub followers](https://img.shields.io/github/followers/kazuumaVII?style=social) &emsp;&emsp;&emsp;&emsp;&emsp;
 ![GitHub watchers](https://img.shields.io/github/watchers/kazuumaVII/kazuumaVII?style=social) &emsp;&emsp;&emsp;&emsp;&emsp;
@@ -44,4 +42,6 @@
  
 &emsp;&emsp;&emsp;![trophy](https://github-profile-trophy.vercel.app/?username=kazuumaVII&theme=nord&margin-w=20&no-bg=true&no-frame=true)
 
-
+[comment]:![Visitor](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=frfrance&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)&emsp;
+[comment]:<a href="mailto:franceschi.ky@gmail.com?subject=%20From%20Github">
+[comment]: <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
