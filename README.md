@@ -40,11 +40,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/kazuumaVII/kazuumaVII?color=red&style=plastic)
 
  
- <div align="center">
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=minishell&theme=calm&border_radius=30&hide_border=true)](https://github.com/kazuumaVII/minishell)
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=ft_service&theme=calm&border_radius=30&hide_border=true)](https://github.com/kazuumaVII/ft_service)
- </div>
- 
 
 -----------
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=minishell&theme=calm&border_radius=30&hide_border=true)](https://github.com/kazuumaVII/minishell)&emsp;&emsp; &ensp; 
