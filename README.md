@@ -27,10 +27,7 @@
 
 
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![GitHub followers](https://img.shields.io/github/followers/kazuumaVII?style=social) &emsp;&emsp;&emsp;&emsp;&emsp;
-![GitHub watchers](https://img.shields.io/github/watchers/kazuumaVII/kazuumaVII?style=social) &emsp;&emsp;&emsp;&emsp;&emsp;
-![GitHub repo size](https://badges.pufler.dev/repos/kazuumaVII?style=flat-square&color=black&logo=github) &emsp;&emsp;&emsp;&emsp;&emsp;
-![GitHub last commit](https://img.shields.io/github/last-commit/kazuumaVII/kazuumaVII?color=red&style=plastic)
+
 
 -----------
 
@@ -42,6 +39,13 @@
 -----------
  
 &emsp;&emsp;&emsp;![trophy](https://github-profile-trophy.vercel.app/?username=kazuumaVII&theme=nord&margin-w=20&no-bg=true&no-frame=true)
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![GitHub followers](https://img.shields.io/github/followers/kazuumaVII?style=social) &emsp;&emsp;&emsp;&emsp;&emsp;
+![GitHub watchers](https://img.shields.io/github/watchers/kazuumaVII/kazuumaVII?style=social) &emsp;&emsp;&emsp;&emsp;&emsp;
+![GitHub repo size](https://badges.pufler.dev/repos/kazuumaVII?style=flat-square&color=black&logo=github) &emsp;&emsp;&emsp;&emsp;&emsp;
+![GitHub last commit](https://img.shields.io/github/last-commit/kazuumaVII/kazuumaVII?color=red&style=plastic)
+
+
 
 [comment]:![Visitor](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=frfrance&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)&emsp;
 [comment]:<a href="mailto:franceschi.ky@gmail.com?subject=%20From%20Github">
