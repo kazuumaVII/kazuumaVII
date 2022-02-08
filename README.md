@@ -35,7 +35,7 @@
 </div>
 <br/>
 
-</div>
+
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![GitHub followers](https://img.shields.io/github/followers/kazuumaVII?style=social) &emsp;&emsp;&emsp;&emsp;&emsp;
 ![GitHub watchers](https://img.shields.io/github/watchers/kazuumaVII/kazuumaVII?style=social) &emsp;&emsp;&emsp;&emsp;&emsp;
 ![GitHub repo size](https://badges.pufler.dev/repos/kazuumaVII?style=flat-square&color=black&logo=github) &emsp;&emsp;&emsp;&emsp;&emsp;
