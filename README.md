@@ -3,10 +3,10 @@
 </p>
 
 -----------
-<a align="center" >
+<center>
 <img align="center" src='https://badge42.herokuapp.com/api/stats/frfrance' />
  
-</a>  
+</center>
 
 
 ⚡ Technologies
