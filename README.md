@@ -9,8 +9,6 @@
  
 </div>
 
-<div style="background-color: chartreuse;height: 60px;">BITE</div>
-
 
 ⚡ Technology
 -----------
