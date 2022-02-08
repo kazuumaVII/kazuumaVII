@@ -3,8 +3,8 @@
 </p>
 
 -----------
-<a align='center'>
-<img src='https://badge42.herokuapp.com/api/stats/frfrance' />
+<a >
+<img align="center" src='https://badge42.herokuapp.com/api/stats/frfrance' />
  
 </a>  
 
