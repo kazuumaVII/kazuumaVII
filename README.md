@@ -20,7 +20,8 @@
  <img align="right" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white" /> 
  <img align="right" src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&amp;style=for-the-badge&amp;logo=react&amp;logoColor=white" />
  <img align="right" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
- <br/>
+</a>  
+<a>
  <img align="right" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
  <img align="right" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
  <img align="right" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
