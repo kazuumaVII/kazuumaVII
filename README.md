@@ -10,7 +10,7 @@
 
 
 ⚡ Technologies
---
+-----------
 
 
 <div align="center">
