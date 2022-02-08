@@ -3,15 +3,15 @@
 </p>
 
 -----------
-<center>
+<div align="center">
 <img align="center" src='https://badge42.herokuapp.com/api/stats/frfrance' />
  
-</center>
+</div>
 
 
 ⚡ Technologies
 --
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/frfrance)](https://github.com/JaeSeoKim/badge42)
+
 
 <a align='center'>
  <img align="left"  src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
