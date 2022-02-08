@@ -12,7 +12,7 @@
 --
 
 
-<a>
+<a align='center'>
  <img align="right" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
  <img align="right" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
  <img align="right" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -25,10 +25,10 @@
 <br/>
 <a>
  
- <img align="center" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
- <img align="center" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
- <img align="center" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase=white" />
- <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white" />
+ <img align="right" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+ <img align="right" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+ <img align="right" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase=white" />
+ <img align="right" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white" />
  
 </a>  
 <br/><br/><br/><br/><br/>
