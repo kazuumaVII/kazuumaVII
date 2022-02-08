@@ -9,6 +9,7 @@
 
 
 ⚡ Technologies
+-----------
 
 [comment]:(https://github-readme-stats.vercel.app/api/top-langs/?username=kazuumaVII&langs_count=8&hide_border=true&layout=compact&hide=javascript,php,css,html,twig,scss&theme=shades-of-purple)
 
