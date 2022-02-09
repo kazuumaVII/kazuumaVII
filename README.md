@@ -79,25 +79,21 @@
         <img src="https://avatars.githubusercontent.com/u/54394628?v=4" width="100px;" alt="AlexDos-42"/>
       </a>
       <br />
-      <a href="https://github.com/AlexDos-42">Simon Lecoq</a>
+      <a href="https://github.com/AlexDos-42">AlexDos-42</a>
     </td>
-   
-   
     <td align="center">
-      <a href="https://github.com/bitmote">
-        <img src="https://avatars2.githubusercontent.com/u/26090768" width="100px;" alt="bitmote"/>
+      <a href="https://github.com/rayane115">
+        <img src="https://avatars.githubusercontent.com/u/58400939?v=4" width="100px;" alt="rayane115"/>
       </a>
       <br />
-      <a href="https://github.com/bitmote">ZhengXiaolei</a>
+      <a href="https://github.com/rayane115">rayane115</a>
     </td>
-   
-   
     <td align="center">
-      <a href="https://github.com/Leticia-maria">
-        <img src="https://avatars2.githubusercontent.com/u/60739184" width="100px;" alt="Leticia-maria"/>
+      <a href="https://github.com/samuelfer42">
+        <img src="https://avatars.githubusercontent.com/u/43337768?v=4" width="100px;" alt="samuelfer42"/>
       </a>
       <br />
-      <a href="https://github.com/Leticia-maria">Letícia Maria Pequeno Madureira</a>
+      <a href="https://github.com/samuelfer42">samuelfer42</a>
     </td>
    
    
