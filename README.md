@@ -57,12 +57,13 @@
  
 &emsp;&emsp;&emsp;![trophy](https://github-profile-trophy.vercel.app/?username=kazuumaVII&theme=nord&margin-w=20&no-bg=true&no-frame=true)
 
+https://avatars.githubusercontent.com/u/17748314?v=4
 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/snowdream">
-        <img src="https://avatars2.githubusercontent.com/u/737958" width="100px;" alt="snowdream"/>
+      <a href="https://github.com/cfatrane">
+        <img src="https://avatars.githubusercontent.com/u/17748314?v=4" width="100px;" alt="cfatrane"/>
       </a>
       <br />
       <a href="https://github.com/snowdream">snowdream</a>
