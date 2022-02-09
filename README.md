@@ -57,7 +57,6 @@
  
 &emsp;&emsp;&emsp;![trophy](https://github-profile-trophy.vercel.app/?username=kazuumaVII&theme=nord&margin-w=20&no-bg=true&no-frame=true)
 
-https://avatars.githubusercontent.com/u/17748314?v=4
 
 <table>
   <tr>
