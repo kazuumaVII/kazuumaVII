@@ -74,8 +74,6 @@
       <br />
       <a href="https://github.com/StanLepunK">StanLepunK</a>
     </td>
-   
-   
     <td align="center">
       <a href="https://github.com/AlexDos-42">
         <img src="https://avatars.githubusercontent.com/u/54394628?v=4" width="100px;" alt="AlexDos-42"/>
