@@ -100,7 +100,6 @@
       <br />
       <a href="https://github.com/thomasgermain07">thomasgermain07</a>
     </td>
-   
     <td align="center">
       <a href="https://github.com/Emilie5520">
         <img src="https://avatars.githubusercontent.com/u/42848496?v=4" width="100px;" alt="Emilie5520"/>
