@@ -55,10 +55,8 @@
 
 -----------
  
-&emsp;&emsp;&emsp;![trophy](https://github-profile-trophy.vercel.app/?username=kazuumaVII&theme=nord&margin-w=20&no-bg=true&no-frame=true)
-
-
-<table>
+ 
+ <table>
   <tr>
     <td align="center">
       <a href="https://github.com/cfatrane">
@@ -95,78 +93,32 @@
       <br />
       <a href="https://github.com/samuelfer42">samuelfer42</a>
     </td>
-   
-   
     <td align="center">
-      <a href="https://github.com/jhonataT">
-        <img src="https://avatars2.githubusercontent.com/u/51134324" width="100px;" alt="jhonataT"/>
+      <a href="https://github.com/thomasgermain07">
+        <img src="https://avatars.githubusercontent.com/u/43045806?v=4" width="100px;" alt="thomasgermain07"/>
       </a>
       <br />
-      <a href="https://github.com/jhonataT">Jhonata Tenório</a>
+      <a href="https://github.com/thomasgermain07">thomasgermain07</a>
     </td>
    
-   
     <td align="center">
-      <a href="https://github.com/zhuwenxing">
-        <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
+      <a href="https://github.com/Emilie5520">
+        <img src="https://avatars.githubusercontent.com/u/42848496?v=4" width="100px;" alt="Emilie5520"/>
       </a>
       <br />
-      <a href="https://github.com/zhuwenxing">zhuwenxing</a>
+      <a href="https://github.com/Emilie5520">Emilie5520</a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/cnsuhao">
-        <img src="https://avatars2.githubusercontent.com/u/23429527" width="100px;" alt="cnsuhao"/>
-      </a>
-      <br />
-      <a href="https://github.com/cnsuhao">cnsuhao</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Matrixbirds">
-        <img src="https://avatars2.githubusercontent.com/u/9990676" width="100px;" alt="Matrixbirds"/>
-      </a>
-      <br />
-      <a href="https://github.com/Matrixbirds">matrixbirds</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/swhgoon">
-        <img src="https://avatars2.githubusercontent.com/u/840150" width="100px;" alt="swhgoon"/>
-      </a>
-      <br />
-      <a href="https://github.com/swhgoon">SwhGo_oN</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/AlphaTechnolog">
-        <img src="https://avatars2.githubusercontent.com/u/54639968" width="100px;" alt="AlphaTechnolog"/>
-      </a>
-      <br />
-      <a href="https://github.com/AlphaTechnolog">Gabriel Guerra</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MadhavDev-prog">
-        <img src="https://avatars2.githubusercontent.com/u/13887725" width="100px;" alt="MadhavDev-prog"/>
-      </a>
-      <br />
-      <a href="https://github.com/MadhavDev-prog">suffixdev</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/imknown">
-        <img src="https://avatars2.githubusercontent.com/u/5681447" width="100px;" alt="imknown"/>
-      </a>
-      <br />
-      <a href="https://github.com/imknown">imknown J. Kimu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ziaochina">
-        <img src="https://avatars2.githubusercontent.com/u/4494312" width="100px;" alt="ziaochina"/>
-      </a>
-      <br />
-      <a href="https://github.com/ziaochina">liujian zhang</a>
-    </td>
-  </tr>
-</table>
+ 
+ 
+ 
+ 
+&emsp;&emsp;&emsp;![trophy](https://github-profile-trophy.vercel.app/?username=kazuumaVII&theme=nord&margin-w=20&no-bg=true&no-frame=true)
 
+
+
+ 
+ 
 
 
 [comment]:(https://github-readme-stats.vercel.app/api/top-langs/?username=kazuumaVII&langs_count=8&hide_border=true&layout=compact&hide=javascript,php,css,html,twig,scss&theme=shades-of-purple)
