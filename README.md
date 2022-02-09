@@ -12,7 +12,7 @@
 👨‍💻 About me
 ------------
 
-Good morning and welcome on my profile !
+Hi and welcome on my profile !
 Let me introduce myself, François delighted to meet you 🖐
 
 I am currently a student at [Ecole 42 Paris](https://42.fr/) and I have just finished my course.
