@@ -9,6 +9,11 @@
  
 </div>
 
+👨‍💻 About me
+------------
+
+dsdsdsdsdsdsd
+sdsdsdsdsdsd
 
 ⚡ Technology
 -----------
