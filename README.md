@@ -68,8 +68,6 @@ https://avatars.githubusercontent.com/u/17748314?v=4
       <br />
       <a href="https://github.com/cfatrane">cfatrane</a>
     </td>
-   
-   
     <td align="center">
       <a href="https://github.com/StanLepunKz">
         <img src="https://avatars.githubusercontent.com/u/3332269?v=4" width="100px;" alt="StanLepunK"/>
