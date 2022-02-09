@@ -12,8 +12,21 @@
 👨‍💻 About me
 ------------
 
-dsdsdsdsdsdsd
-sdsdsdsdsdsd
+Good morning and welcome on my profile !
+Let me introduce myself, François delighted to meet you 🖐
+
+I am currently a student at [Ecole 42 Paris](https://42.fr/) and I have just finished my course.
+Passionate about technology, I wanted to convert to web development. I quickly became interested in the technical part to become a good developer.
+
+My skills in front-end development, with React and React-Native, allow me to efficiently produce functional graphical interfaces for web applications.
+My current goals are to acquire new knowledge/skills in this environment of web development.
+
+Beyond my simple technical and graphic abilities, I am also a big fan of sports and music.
+My favorite areas are 👇
+
+⚡ Website development with React JS
+⚛️ iOS/Android mobile app development with React Native
+🔖 Integration of a responsive HTML5/CSS3 graphic model
 
 ⚡ Technology
 -----------
