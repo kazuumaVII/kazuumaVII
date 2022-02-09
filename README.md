@@ -24,9 +24,9 @@ My current goals are to acquire new knowledge/skills in this environment of web 
 Beyond my simple technical and graphic abilities, I am also a big fan of sports and music.
 My favorite areas are 👇
 
-⚡ Website development with React JS
-⚛️ iOS/Android mobile app development with React Native
-🔖 Integration of a responsive HTML5/CSS3 graphic model
+⚡ Website development with React JS </br>
+⚛️ iOS/Android mobile app development with React Native </br>
+🔖 Integration of a responsive HTML5/CSS3 graphic model </br>
 
 ⚡ Technology
 -----------
