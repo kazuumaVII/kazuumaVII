@@ -68,20 +68,26 @@ https://avatars.githubusercontent.com/u/17748314?v=4
       <br />
       <a href="https://github.com/cfatrane">cfatrane</a>
     </td>
+   
+   
     <td align="center">
-      <a href="https://github.com/donmartz">
-        <img src="https://avatars2.githubusercontent.com/u/78443365" width="100px;" alt="donmartz"/>
+      <a href="https://github.com/StanLepunKz">
+        <img src="https://avatars.githubusercontent.com/u/3332269?v=4" width="100px;" alt="StanLepunK"/>
       </a>
       <br />
-      <a href="https://github.com/donmartz">donmartz</a>
+      <a href="https://github.com/StanLepunK">StanLepunK</a>
     </td>
+   
+   
     <td align="center">
-      <a href="https://github.com/lowlighter">
-        <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
+      <a href="https://github.com/AlexDos-42">
+        <img src="https://avatars.githubusercontent.com/u/54394628?v=4" width="100px;" alt="AlexDos-42"/>
       </a>
       <br />
-      <a href="https://github.com/lowlighter">Simon Lecoq</a>
+      <a href="https://github.com/AlexDos-42">Simon Lecoq</a>
     </td>
+   
+   
     <td align="center">
       <a href="https://github.com/bitmote">
         <img src="https://avatars2.githubusercontent.com/u/26090768" width="100px;" alt="bitmote"/>
@@ -89,6 +95,8 @@ https://avatars.githubusercontent.com/u/17748314?v=4
       <br />
       <a href="https://github.com/bitmote">ZhengXiaolei</a>
     </td>
+   
+   
     <td align="center">
       <a href="https://github.com/Leticia-maria">
         <img src="https://avatars2.githubusercontent.com/u/60739184" width="100px;" alt="Leticia-maria"/>
@@ -96,6 +104,8 @@ https://avatars.githubusercontent.com/u/17748314?v=4
       <br />
       <a href="https://github.com/Leticia-maria">Letícia Maria Pequeno Madureira</a>
     </td>
+   
+   
     <td align="center">
       <a href="https://github.com/jhonataT">
         <img src="https://avatars2.githubusercontent.com/u/51134324" width="100px;" alt="jhonataT"/>
@@ -103,6 +113,8 @@ https://avatars.githubusercontent.com/u/17748314?v=4
       <br />
       <a href="https://github.com/jhonataT">Jhonata Tenório</a>
     </td>
+   
+   
     <td align="center">
       <a href="https://github.com/zhuwenxing">
         <img src="https://avatars2.githubusercontent.com/u/12268675" width="100px;" alt="zhuwenxing"/>
