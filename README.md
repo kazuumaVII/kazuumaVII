@@ -53,9 +53,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=ft_printf&theme=calm&border_radius=30&hide_border=true)](https://github.com/kazuumaVII/ft_printf)&emsp;&emsp; &ensp; 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=cub_3d&theme=calm&border_radius=30&hide_border=true)](https://github.com/kazuumaVII/cub_3d) 
 
+
+
+✨ My Followers
 -----------
- 
- 
  <table>
   <tr>
     <td align="center">
@@ -111,7 +112,7 @@
  
  
  
- 
+------
 &emsp;&emsp;&emsp;![trophy](https://github-profile-trophy.vercel.app/?username=kazuumaVII&theme=nord&margin-w=20&no-bg=true&no-frame=true)
 
 
