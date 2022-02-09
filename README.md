@@ -53,7 +53,7 @@
 -----------
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=minishell&theme=calm&border_radius=30&hide_border=true)](https://github.com/kazuumaVII/minishell)&emsp;&emsp; &ensp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=Weather_mobil_app&theme=calm&border_radius=30&hide_border=true)](https://github.com/kazuumaVII/Weather_mobile_app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=Weather_mobile_app&theme=calm&border_radius=30&hide_border=true)](https://github.com/kazuumaVII/Weather_mobile_app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=ft_printf&theme=calm&border_radius=30&hide_border=true)](https://github.com/kazuumaVII/ft_printf)&emsp;&emsp; &ensp; 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kazuumaVII&repo=cub_3d&theme=calm&border_radius=30&hide_border=true)](https://github.com/kazuumaVII/cub_3d) 
 
