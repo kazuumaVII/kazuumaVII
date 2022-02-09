@@ -31,6 +31,7 @@
  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
  <img  src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase=white" />
  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white" />
+ <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
  
 </div>
 <br/>
