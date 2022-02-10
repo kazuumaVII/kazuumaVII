@@ -138,7 +138,7 @@ Beyond my simple technical and graphic abilities, I am also a big fan of sports 
 
 [comment]:(https://github-readme-stats.vercel.app/api/top-langs/?username=kazuumaVII&langs_count=8&hide_border=true&layout=compact&hide=javascript,php,css,html,twig,scss&theme=shades-of-purple)
 
-[comment]:&emsp;&emsp;&emsp;[comment]:![trophy](https://github-profile-trophy.vercel.app/?username=kazuumaVII&theme=nord&margin-w=20&no-bg=true&no-frame=true)
+&emsp;&emsp;&emsp;[comment]:![trophy](https://github-profile-trophy.vercel.app/?username=kazuumaVII&theme=nord&margin-w=20&no-bg=true&no-frame=true)
 
 
 
