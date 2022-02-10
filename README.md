@@ -129,7 +129,6 @@ Beyond my simple technical and graphic abilities, I am also a big fan of sports 
   </tr>
  </table>
 <br />
-<br />
  
 🏆 Trophy
 -----------
