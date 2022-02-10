@@ -128,7 +128,8 @@ Beyond my simple technical and graphic abilities, I am also a big fan of sports 
     </td>
   </tr>
  </table>
- 
+<br />
+<br />
  
 🏆 Trophy
 -----------
@@ -138,7 +139,7 @@ Beyond my simple technical and graphic abilities, I am also a big fan of sports 
  </div>
  
  
-&emsp;&emsp;&emsp;![trophy](https://github-profile-trophy.vercel.app/?username=kazuumaVII&theme=nord&margin-w=20&no-bg=true&no-frame=true) 
+
  
 
 
