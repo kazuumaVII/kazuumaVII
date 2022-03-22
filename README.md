@@ -114,10 +114,10 @@ Beyond my simple technical and graphic abilities, I am also a big fan of sports 
     </td>
     <td align="center">
       <a href="https://github.com/thomasgermain07">
-        <img src="https://avatars.githubusercontent.com/u/43045806?v=4" width="100px;" alt="thomasgermain07"/>
+        <img src="https://avatars.githubusercontent.com/u/7305620?v=4" width="100px;" alt="Hugothms"/>
       </a>
       <br />
-      <a href="https://github.com/thomasgermain07">thomasgermain07</a>
+      <a href="https://github.com/Hugothms">Hugothms</a>
     </td>
     <td align="center">
       <a href="https://github.com/Emilie5520">
