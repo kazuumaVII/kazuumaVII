@@ -60,7 +60,7 @@ Beyond my simple technical and graphic abilities, I am also a big fan of sports 
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![GitHub followers](https://img.shields.io/github/followers/kazuumaVII?style=social) &emsp;&emsp;&emsp;&emsp;&emsp;
 ![GitHub watchers](https://img.shields.io/github/watchers/kazuumaVII/kazuumaVII?style=social) &emsp;&emsp;&emsp;&emsp;&emsp;
-[comment]:![GitHub repo size](https://badges.pufler.dev/repos/kazuumaVII?style=flat-square&color=black&logo=github) &emsp;&emsp;&emsp;&emsp;&emsp;
+[comment]:(![GitHub repo size](https://badges.pufler.dev/repos/kazuumaVII?style=flat-square&color=black&logo=github)) &emsp;&emsp;&emsp;&emsp;&emsp;
 ![GitHub last commit](https://img.shields.io/github/last-commit/kazuumaVII/kazuumaVII?color=red&style=plastic) &emsp;&emsp;&emsp;&emsp;
 
  
