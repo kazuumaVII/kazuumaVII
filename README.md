@@ -18,13 +18,15 @@ After studying at [Ecole 42 Paris](https://42.fr/) and completing my studies, I 
 
 I quickly became interested in the technical aspects and committed myself to becoming a skilled developer.
 
-My proficiency in front-end development, using React and React-Native, allows me to efficiently create functional user interfaces for web applications. 
+My proficiency in front-end development, using React, Next-JS and React-Native, allows me to efficiently create functional user interfaces for web applications. 
 
 As a freelance developer, I have experience in working on a variety of projects for clients with different needs and requirements.
 
-My current goal is to continue acquiring new knowledge and skills in this field of web development. Beyond my technical and graphic abilities, I'm also a big fan of sports and music. My favorite areas include  👇
+My current goal is to continue acquiring new knowledge and skills in this field of web development. Beyond my technical and graphic abilities, I'm also a big fan of sports and music. 
 
-⚡ Website development with React JS </br>
+My favorite areas include  👇
+
+⚡ Website development with React JS / Next JS </br>
 ⚛️ iOS/Android mobile app development with React Native </br>
 🔖 Integration of a responsive HTML5/CSS3 graphic model
 
