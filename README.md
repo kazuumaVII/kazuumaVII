@@ -12,14 +12,17 @@
 👨‍💻 About me
 ------------
 
-Hi and welcome on my profile ! Let me introduce myself, François nice to meet you 🖐
+Hello and welcome to my profile! Let me introduce myself, I'm François, a freelance web developer, nice to meet you 🖐
 
-I am currently studying at [Ecole 42 Paris](https://42.fr/) and I have just finished my cursus
-Passionate about technology, I wanted to convert to web development. I quickly became interested in the technical part to become a good developer.
+After studying at [Ecole 42 Paris](https://42.fr/) and completing my studies, I decided to focus on web development. 
 
-My skills in front-end development, with React and React-Native, allow me to efficiently produce functional graphical interfaces for web applications. My current goals are to acquire new knowledge/skills in this environment of web development.
+I quickly became interested in the technical aspects and committed myself to becoming a skilled developer.
 
-Beyond my simple technical and graphic abilities, I am also a big fan of sports and music. My favorite areas are 👇
+My proficiency in front-end development, using React and React-Native, allows me to efficiently create functional user interfaces for web applications. 
+
+As a freelance developer, I have experience in working on a variety of projects for clients with different needs and requirements.
+
+My current goal is to continue acquiring new knowledge and skills in this field of web development. Beyond my technical and graphic abilities, I'm also a big fan of sports and music. My favorite areas include  👇
 
 ⚡ Website development with React JS </br>
 ⚛️ iOS/Android mobile app development with React Native </br>
